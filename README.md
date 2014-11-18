@@ -14,7 +14,8 @@ http://www.regexr.com/
 3.  List of useful array methods missing from 1.
   .filter
   .forEach
-  .find
   .map
   .reduce
 
+4. Coding environment
+http://repl.it/
